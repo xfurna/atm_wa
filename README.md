@@ -11,28 +11,8 @@ For running it, you should have python3 and latest version of Chrome webdriver d
 ## atm_T
 
 ### linuxBETA
+> NOT SUPPORTED. WORK IN PROGRESS... 
 
-If you're on linux, you should run [linux] script.
-- Download [chromedriver](https://chromedriver.storage.googleapis.com/2.45/chromedriver_win32.zip)
-- Clone the [script](https://github.com/evi1haxor/atm_wa.git)
-
-Now if you don't have default system settings for storing downloads, then you should specify the complete path (as illustrated below) where the downloads gets stored in your system.
-
-```bash
-sh wta -p "THE\\PATH" -c *** -m "THE MESSAGE"
-```
-
-
-
-<sub>_Replace `***` with your target counts._</sub> <br>
-
-If you've never touched your system settings, you can simply execute the command without `-p` flag ExampleGiven-
-
-```bash
-sh wta -c *** -m "THE MESSAGE"
-```
-
-**IF THE DESCRIBED WAY ISN'T MAKING YOU THROUGH, THEN YOU MAY WANT TO TRY WITH MANUAL SETUP AS EXPLAINED BELOW**
 
 ---
 
