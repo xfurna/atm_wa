@@ -18,7 +18,7 @@ input("CONTINUE-")
 args = a.parse_args()
 
 if len(sys.argv[1:]) == 2:
-    targets.PATH = "/home/saket/Downloads/chromedriver"
+    targets.PATH = "/home/USERNAME/Downloads/chromedriver"
 else:
     targets.PATH = args.PATH
 
