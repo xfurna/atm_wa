@@ -14,9 +14,9 @@ For running it, you should have python3 and latest version of Chrome webdriver d
 > Work still in progress on its enhancements. Although, the script works fine. Just follow
 
 ```
-python3 atm_T/linux/main.py -c * -m "MESSAGE" -p "Path/to/gekodriver/" -i **
+python3 atm_T/linux/main.py -c * -mrequired packages "MESSAGE" -p "Path/to/gekodriver/" -i **
 ```
-<sub><i>*: Counts of Recipients <br> **: y for yes and n for no (option for whether you want automatic installation of dispansaries or manual)</i></sub>
+<sub><i>*: Counts of Recipients <br> **: y for yes and n for no (option for whether you want automatic installation of  or manual)</i></sub>
 
 ---
 
