@@ -1,7 +1,9 @@
-this = []
+recipient = []
 
-cmnds = ["pip install selenium", "sudo apt-get install chromium-browser"]
+cmnds = ["sudo apt-get update", "sudo apt-get install python3-pip", "pip3 install selenium", "sudo apt-get install firefox"]
 
-it = ""
+msg = ""
 
 PATH = ""
+
+
